@@ -71,5 +71,6 @@ dependencies {
     implementation("io.coil-kt:coil-compose:2.4.0")
     implementation("androidx.compose.material:material-icons-extended:1.6.8")
     implementation("com.google.ai.client.generativeai:generativeai:0.8.0")
+    implementation(libs.accompanist.systemuicontroller)
 
 }
