@@ -10,10 +10,10 @@ An artificial intelligence chat application that uses Google's Gemini API, where
 
 
 <div style="display: flex; flex-wrap: wrap;">
-    <img width="215" alt="chatbot1" src="https://github.com/user-attachments/assets/a0514ab7-14a6-4cc4-b63c-80df059f752c">
-    <img width="215" alt="chatbot2" src="https://github.com/user-attachments/assets/bc6bd810-9c3d-4e57-9491-319280f262ae">
-    <img width="215" alt="chatbot2" src="https://github.com/user-attachments/assets/23c52fcd-4457-46ec-abd1-44e734ef7be4">
-    <img width="215" alt="chatbot2" src="https://github.com/user-attachments/assets/f3358155-71e8-4ba9-bc31-907c18cfe110">
+    <img width="200" alt="chatbot1" src="https://github.com/user-attachments/assets/a0514ab7-14a6-4cc4-b63c-80df059f752c">
+    <img width="200" alt="chatbot2" src="https://github.com/user-attachments/assets/bc6bd810-9c3d-4e57-9491-319280f262ae">
+    <img width="200" alt="chatbot2" src="https://github.com/user-attachments/assets/23c52fcd-4457-46ec-abd1-44e734ef7be4">
+    <img width="200" alt="chatbot2" src="https://github.com/user-attachments/assets/f3358155-71e8-4ba9-bc31-907c18cfe110">
 </div>
 
 ## Dependencies
